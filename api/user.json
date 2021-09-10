@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "myname": "manimozhi",
+      "myemail": "manimozhiececs@gmail.com",
+      "mypassword": "asokan90",
+      "mymobile": "8925419098",
+      "id": 1
+    },
+    {
+      "myname": "Ravi",
+      "myemail": "ravi@gmail.com",
+      "mypassword": "123456",
+      "mymobile": "9809809809",
+      "id": 2
+    }
+  ]
+}
